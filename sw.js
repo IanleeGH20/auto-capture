@@ -1,5 +1,5 @@
 // Frankfort Capture service worker — offline app shell + runtime CDN cache
-const CACHE = 'frankfort-v6';
+const CACHE = 'frankfort-v8';
 const SHELL = [
   './',
   './index.html',
